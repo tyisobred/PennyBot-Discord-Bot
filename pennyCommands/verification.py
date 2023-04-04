@@ -264,7 +264,7 @@ class VerificationModal(discord.ui.Modal, title='Verification of Staff'):
         required=True
     )
 
-    GENERAL_MGR_NAME = ['mr. vattimo', 'mr. v', 'mr.v', 'mr.vattimo', 'mr vattimo', 'mr v', 'vattimo']
+    GENERAL_MGR_NAME = ['mr. v']
     VERIFIED_ROLE_ID = 994703994305904811
     RULES_CHANNEL_ID = 933193366034866196
     DEFAULT_LOGS = 933204353408438272
